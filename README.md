@@ -1,6 +1,4 @@
-# Flame :fire: - Opinionated Flask & MongoDB Back-End
-
-[![Build Status](https://semaphoreci.com/api/v1/gabrielamazonas/flame/branches/master/badge.svg)](https://semaphoreci.com/gabrielamazonas/flame)
+# Flask & MongoDB Back-End
 
 ## Implemented:
 
